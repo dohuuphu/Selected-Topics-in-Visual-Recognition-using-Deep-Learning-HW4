@@ -1,4 +1,4 @@
-# **Selected Topics in Visual Recognition using Deep Learning HW2**
+# **Selected Topics in Visual Recognition using Deep Learning HW4**
 StudentID: 311540015
 
 Name: Do Huu Phu

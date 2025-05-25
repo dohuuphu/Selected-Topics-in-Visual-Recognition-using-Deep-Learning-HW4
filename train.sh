@@ -1,0 +1,1 @@
+python train.py --de_type deall --num_gpus 2 --output_path output/default/all --ckpt_dir output/default/8len_2linear/ckpt --batch_size 6 --epochs 20
